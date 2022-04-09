@@ -257,5 +257,6 @@ cython_debug/
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij+all,python,jupyternotebooks
 
-res/*
+**/*.png
+**/*.xml
 !res/.keep
