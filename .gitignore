@@ -260,3 +260,6 @@ cython_debug/
 **/*.png
 **/*.xml
 !res/.keep
+
+**/.DS_Store
+**/*.csv
