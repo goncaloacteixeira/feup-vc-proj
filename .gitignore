@@ -259,7 +259,7 @@ cython_debug/
 
 **/*.png
 **/*.xml
-!res/.keep
+!phase1/res/.keep
 
 **/.DS_Store
 **/*.csv
