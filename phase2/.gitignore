@@ -265,5 +265,3 @@ cython_debug/
 **/*.csv
 **/*.xlsx
 **/*.html
-
-**/models
